@@ -6,6 +6,7 @@
 3) 'react-native run-ios' for iOS or 'react-native run-android' for Android
 
 #### Boilerplate structure
+```bash
 ./src
 +-- actions
 |   +-- index.js
@@ -19,3 +20,4 @@
 |   +-- sample.js
 +-- store
 |   +-- index.js
+```
